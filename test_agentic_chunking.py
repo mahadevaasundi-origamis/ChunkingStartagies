@@ -16,7 +16,12 @@ from agentic_chunking import AgenticChunking
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("AgenticRunner")
 
-ModelName = "gpt-oss:120b-cloud"
+
+
+
+# ModelName = "gpt-oss:120b-cloud"
+
+ModelName = os.getenv('GPT4_1_NANO_LLM_MODEL_DEPLOYMENT_NAME')
 
 def extract_content_from_pdf(file_path):
     """
