@@ -1,0 +1,66 @@
+page_map = [
+    (1, 0, """
+<h1>Introduction</h1>
+<p>This document is designed to test the text splitting and chunking capabilities of your system.</p>
+
+<h2>Overview</h2>
+<p>We include multiple paragraphs, code snippets, and lists to mimic real-world documents.</p>
+
+<p>Here is a Python function example:</p>
+
+<pre><code>def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+</code></pre>
+
+<p>Use this to calculate factorial numbers.</p>
+
+<ul>
+<li>First point</li>
+<li>Second point with <b>bold</b> text</li>
+<li>Third point with a link: <a href="https://example.com">Example</a></li>
+</ul>
+"""),
+
+    (2, 0, """
+<h1>JavaScript Section</h1>
+<p>Now some JavaScript code for string manipulation:</p>
+
+<pre><code>function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+
+console.log(reverseString("Hello World!"));
+</code></pre>
+
+<h2>Details</h2>
+<p>The above function reverses any string you pass to it. This section also contains some bullet points:</p>
+
+<ol>
+<li>Point one</li>
+<li>Point two</li>
+<li>Point three</li>
+</ol>
+
+<p>Testing sentence overlaps and paragraph boundaries is critical.</p>
+"""),
+
+    (3, 0, """
+<h1>Final Notes</h1>
+<p>In conclusion, this document serves as a comprehensive example to evaluate chunking strategies.</p>
+
+<h2>Summary</h2>
+<p>We covered Python, JavaScript, HTML elements, lists, and paragraphs. The idea is to simulate varied content.</p>
+
+<p>Additional points:</p>
+<ul>
+<li>Chunk size management</li>
+<li>Handling nested HTML tags</li>
+<li>Overlapping sentences between chunks</li>
+</ul>
+
+<p>Thank you for testing this with your system!</p>
+""")
+]

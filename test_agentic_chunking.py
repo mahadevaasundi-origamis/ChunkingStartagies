@@ -2,6 +2,9 @@ import logging
 import os
 import sys
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 # 1. Import necessary libraries for file loading
@@ -23,6 +26,8 @@ logger = logging.getLogger("AgenticRunner")
 
 ModelName = os.getenv('GPT4_1_NANO_LLM_MODEL_DEPLOYMENT_NAME')
 
+logger.info(f"Using Model: {ModelName}")
+
 def extract_content_from_pdf(file_path):
     """
     Loads a PDF and converts it into the page_map format expected by the Chunker.
@@ -34,6 +39,7 @@ def extract_content_from_pdf(file_path):
     pages = loader.load()
     
     page_map = []
+    offset = 0
     
     for i, page in enumerate(pages):
         # page_number: usually 0-indexed in loader, we make it 1-indexed for readability
@@ -44,7 +50,9 @@ def extract_content_from_pdf(file_path):
         
         # bbox: We don't need real bbox data for chunking text, so we pass None
         # The structure requires a tuple of length 3
-        page_map.append((page_num, None, text))
+        page_map.append((page_num, offset, text))
+        offset = len(text) # Update offset
+
         
     logger.info(f"Extracted {len(page_map)} pages.")
     return page_map

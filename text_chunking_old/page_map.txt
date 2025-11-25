@@ -1,0 +1,77 @@
+page_map = [
+    (1, 0, """
+INTRODUCTION
+============
+
+This document is designed to test the text splitting and chunking capabilities of your system.
+
+OVERVIEW
+--------
+
+We include multiple paragraphs, code snippets, and lists to mimic real-world documents.
+
+Here is a Python function example:
+
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+Use this to calculate factorial numbers.
+
+- First point
+- Second point with emphasis on bold text
+- Third point with an example link: https://example.com
+
+End of page one.
+"""),
+
+    (2, 0, """
+JAVASCRIPT SECTION
+==================
+
+Now some JavaScript code for string manipulation:
+
+function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+
+console.log(reverseString("Hello World!"));
+
+DETAILS
+-------
+
+The above function reverses any string you pass to it. This section also contains some bullet points:
+
+1. Point one
+2. Point two
+3. Point three
+
+Testing sentence overlaps and paragraph boundaries is critical.
+
+End of page two.
+"""),
+
+    (3, 0, """
+FINAL NOTES
+===========
+
+In conclusion, this document serves as a comprehensive example to evaluate chunking strategies.
+
+SUMMARY
+-------
+
+We covered Python, JavaScript, headers, lists, and paragraphs. The idea is to simulate varied content.
+
+Additional points:
+
+* Chunk size management
+* Handling nested structures
+* Overlapping sentences between chunks
+
+Thank you for testing this with your system!
+
+End of document.
+""")
+]

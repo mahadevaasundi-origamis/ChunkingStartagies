@@ -4,6 +4,10 @@ import uuid
 import logging
 from datetime import datetime
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 
 # --- Pydantic V1 Imports ---
@@ -43,6 +47,8 @@ GPT4_1_AZURE_OPENAI_API_KEY=os.getenv('GPT4_1_AZURE_OPENAI_API_KEY')
 GPT4_1_AZURE_OPENAI_API_BASE=os.getenv('GPT4_1_AZURE_OPENAI_API_BASE')
 GPT4_1_OPENAI_API_TYPE=os.getenv('GPT4_1_OPENAI_API_TYPE')
 GPT4_1_AZURE_OPENAI_API_VERSION=os.getenv('GPT4_1_AZURE_OPENAI_API_VERSION')
+
+print(f"GPT4_1_AZURE_OPENAI_API_KEY: {GPT4_1_AZURE_OPENAI_API_KEY}")
 
 
 

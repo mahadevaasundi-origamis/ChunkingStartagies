@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 8.5,
+      "height": 11.0,
+      "unit": "inch",
+      "lines": [
+        {
+          "boundingBox": [1.1, 1.2, 4.5, 1.2, 4.5, 1.6, 1.1, 1.6],
+          "content": "Invoice Number: 12345",
+          "words": [
+            {"content": "Invoice", "boundingBox": [1.1,1.2,2.0,1.2,2.0,1.6,1.1,1.6]},
+            {"content": "Number:", "boundingBox": [2.1,1.2,3.0,1.2,3.0,1.6,2.1,1.6]},
+            {"content": "12345", "boundingBox": [3.1,1.2,4.5,1.2,4.5,1.6,3.1,1.6]}
+          ]
+        },
+        {
+          "boundingBox": [1.1, 1.8, 5.0, 1.8, 5.0, 2.2, 1.1, 2.2],
+          "content": "Date: 2025-05-26",
+          "words": [
+            {"content": "Date:", "boundingBox": [1.1,1.8,2.0,1.8,2.0,2.2,1.1,2.2]},
+            {"content": "2025-05-26", "boundingBox": [2.1,1.8,5.0,1.8,5.0,2.2,2.1,2.2]}
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "rowCount": 2,
+          "columnCount": 3,
+          "cells": [
+            {"rowIndex": 0, "columnIndex": 0, "content": "Item", "boundingBox": [1,3,2,3,2,3.5,1,3.5]},
+            {"rowIndex": 0, "columnIndex": 1, "content": "Quantity", "boundingBox": [2.1,3,3,3,3,3.5,2.1,3.5]},
+            {"rowIndex": 0, "columnIndex": 2, "content": "Price", "boundingBox": [3.1,3,4,3,4,3.5,3.1,3.5]},
+            {"rowIndex": 1, "columnIndex": 0, "content": "Apple", "boundingBox": [1,3.6,2,3.6,2,4,1,4]},
+            {"rowIndex": 1, "columnIndex": 1, "content": "10", "boundingBox": [2.1,3.6,3,3.6,3,4,2.1,4]},
+            {"rowIndex": 1, "columnIndex": 2, "content": "$1", "boundingBox": [3.1,3.6,4,3.6,4,4,3.1,4]}
+          ]
+        }
+      ]
+    }
+  ]
+}
