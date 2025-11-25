@@ -1,7 +1,7 @@
 from langchain_community.document_loaders import UnstructuredPDFLoader
 import os
 
-file = r"files\Bandhan.pdf"
+file = r"files\ES Mod1@AzDOCUMENTS2.pdf"
 if not os.path.exists(file):
     print(f"File {file} does not exist. Please check the path.")
     # Create a dummy PDF for testing if the file doesn't exist
