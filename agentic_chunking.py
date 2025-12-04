@@ -135,7 +135,6 @@ class SemanticSplitResult(BaseModel):
 # ==========================================
 
 class ChunkMetadata(BaseModel):
-    doc_id: str
     chunk_id: str
     source_path: str
     mime_type: str
@@ -146,7 +145,6 @@ class ChunkMetadata(BaseModel):
     chunk_type: str = Field(description="The type of chunk determined by LLM (text, table, etc.)")
     content_type: Literal["narrative", "tabular", "code", "markdown"]
     token_count: int
-    hash_sha256: str
     vector_metric: str = "cosine"
     embedding_model: str
     table_schema: Optional[str] = None 
@@ -225,7 +223,6 @@ class AgenticChunking():
                 raise ValueError(f"Unexpected page_map format: {item}")
 
         final_output_dicts: List[dict] = []
-        doc_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, self.filename))
         
         current_buffer_text = ""
         current_page_nums = []
@@ -242,7 +239,7 @@ class AgenticChunking():
                 logger.info(f"Context window full. Processing pages {current_page_nums[0]}-{current_page_nums[-1]}...")
                 
                 batch_chunks = self._process_batch(
-                    current_buffer_text, doc_id, current_page_nums, logger, 
+                    current_buffer_text, current_page_nums, logger, 
                     index_id_field, index_sourcepage_field, index_content_field
                 )
                 final_output_dicts.extend(batch_chunks)
@@ -259,7 +256,7 @@ class AgenticChunking():
             logger.info(f"Processing final batch pages {current_page_nums[0]}-{current_page_nums[-1]}...")
             
             batch_chunks = self._process_batch(
-                current_buffer_text, doc_id, current_page_nums, logger, 
+                current_buffer_text, current_page_nums, logger, 
                 index_id_field, index_sourcepage_field, index_content_field
             )
             final_output_dicts.extend(batch_chunks)
@@ -277,7 +274,7 @@ class AgenticChunking():
 
         return final_output_dicts
 
-    def _process_batch(self, text: str, doc_id: str, page_nums: List[int], logger: logging.Logger, id_field: str, source_field: str, content_field: str) -> List[dict]:
+    def _process_batch(self, text: str, page_nums: List[int], logger: logging.Logger, id_field: str, source_field: str, content_field: str) -> List[dict]:
         """
         Sends text to LLM, parses rich object response, and formats into Chunk objects.
         """
@@ -315,7 +312,6 @@ class AgenticChunking():
             token_count = sum(c.token_count for c in token_info) if token_info else len(clean_text) // 4
             
             meta = ChunkMetadata(
-                doc_id=doc_id,
                 chunk_id=chunk_unique_id,
                 source_path=self.filename,
                 mime_type="application/pdf",
@@ -325,7 +321,6 @@ class AgenticChunking():
                 chunk_type=chunk_type_llm,   # Raw LLM Type stored here
                 content_type=content_type_mapped, # Mapped from LLM
                 token_count=token_count,
-                hash_sha256=hashlib.sha256(clean_text.encode()).hexdigest(),
                 embedding_model=self.embedding_model_name,
                 neighbors=[] 
             )

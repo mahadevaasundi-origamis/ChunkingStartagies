@@ -2,48 +2,44 @@
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_1_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::1",
-    "content": "\uf0b7 Course Code : 18EC62\n\uf0b7 CIE Marks : 40\n\uf0b7 Lecture Hours/Week : 03 + 2 (Tutorial)\n\uf0b7 SEE marks : 60\n\uf0b7 Total Number of Lecture Hours : 50 (10 Hrs / Module)\n\uf0b7 Exam Hours : 03\n\uf0b7 CREDITS : 04",
+    "content": "Embedded Systems-18EC62 Azdocuments.in www.azdocuments.in Page 1\n\nEMBEDDED SYSTEMS\n\u2022 Course Code : 18EC62\n\u2022 CIE Marks :40\n\u2022 Lecture Hours/Week : 03 + 2 (Tutorial)\n\u2022 SEE marks :60\n\u2022 Total Number of Lecture Hours : 50 (10 Hrs / Module)\n\u2022 Exam Hours : 03\n\u2022 CREDITS : 04",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_1_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 1,
       "bbox": null,
-      "section_title": "Course Information",
-      "chunk_summary": "Key details of the Embedded Systems course.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 185,
-      "hash_sha256": "9c95926095e43f0471e9d9fe50c30fdf029311d8e014a374309ab7e22b9f8cc9",
+      "section_title": "Embedded Systems",
+      "chunk_summary": "Overview of embedded systems course details and module structure.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 266,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_1_1"
       ],
-      "created_at": "2025-11-25T12:57:17.139146"
+      "created_at": "2025-11-26T10:37:07.112453"
     },
     "page_number": 1,
-    "token_count": 185
+    "token_count": 266
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_1_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::1",
-    "content": "MODULE -1\nARM-32 bit Microcontroller: Thumb-2 technology and applications of ARM, Architecture of ARM Cortex M3, Various Units in the architecture, Debugging support, General Purpose Registers, Special Registers, exceptions, interrupts, stack operation, reset sequence (Text 1: Ch-1, 2, 3).",
+    "content": "MODULE -1\nARM-32 bit Microcontroller: Thumb-2 technology and applications of ARM, Architecture of ARM Cortex M3, Various Units in the architecture, Debugging support, General Purpose Registers, Special Registers, exceptions, interrupts, stack operation, reset sequence (Text 1: Ch-l, 2, 3)",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_1_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 1,
       "bbox": null,
-      "section_title": "Module 1 Overview",
-      "chunk_summary": "Scope and topics covered in Module 1.",
+      "section_title": "Module 1: ARM-32 bit Microcontroller",
+      "chunk_summary": "Introduction to ARM Cortex-M3 architecture, features, and applications.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 290,
-      "hash_sha256": "27509944ebba6e81dc43bd0573a74cc93ad73c1d85b828453b4b5990666849b3",
+      "token_count": 289,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -51,144 +47,80 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_1_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_1_2"
       ],
-      "created_at": "2025-11-25T12:57:17.139146"
+      "created_at": "2025-11-26T10:37:07.112453"
     },
     "page_number": 1,
-    "token_count": 290
+    "token_count": 289
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_1_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::1",
-    "content": "The microcontroller market is vast, with more than 20 billion devices per year estimated to be shipped in 2010. A bewildering array of vendors, devices, and architectures is competing in this market. The requirement for higher performance microcontrollers has been driven globally by the industry\u2019s changing needs; for example, microcontrollers are required to handle more work without increasing a product\u2019s frequency or power. In addition, microcontrollers are becoming increasingly connected, whether by Universal Serial Bus (USB), Ethernet, or wireless radio, and hence, the processing needed to support these communication channels and advanced peripherals are growing.",
+    "content": "ARM -32-BIT MICROCONTROLLER\n\nAbout ARM Cortex-M3 PROCESSOR\nThe microcontroller market is vast, with more than 20 billion devices per year estimated to be shipped in 2010. A bewildering array of vendors, devices, and architectures is competing in this market. The requirement for higher performance microcontrollers has been driven globally by the industry\u2019s changing needs; for example, microcontrollers are required to handle more work without increasing a product\u2019s frequency or power. In addition, microcontrollers are becoming increasingly connected, whether by Universal Serial Bus (USB), Ethernet, or wireless radio, and hence, the processing needed to support these communication channels and advanced peripherals are growing.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_1_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 1,
       "bbox": null,
       "section_title": "About ARM Cortex-M3 Processor",
-      "chunk_summary": "Overview of the global microcontroller market and trends.",
+      "chunk_summary": "Overview of the ARM Cortex-M3 microcontroller market and its features.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 674,
-      "hash_sha256": "fcef2a6619a1f450cac15ceab623dd589ac3e285bf6d79a8fc146a7fea2b4833",
+      "token_count": 733,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_1_1",
-        "ES_Mod1@AzDOCUMENTS2.pdf_1_3"
-      ],
-      "created_at": "2025-11-25T12:57:17.142752"
-    },
-    "page_number": 1,
-    "token_count": 674
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_1_3",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::1",
-    "content": "The ARM Cortex\u2122-M3 processor, the first of the Cortex generation of processors released by ARM in 2006, was primarily designed to target the 32-bit microcontroller market. The Cortex-M3 processor provides excellent performance at low gate count and comes with many new features previously available only in high-end processors. The Cortex-M3 addresses the requirements for the 32-bit embedded processor market in the following ways:",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_1_3",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 1,
-      "bbox": null,
-      "section_title": "ARM Cortex-M3 Processor Features",
-      "chunk_summary": "Introduction to the Cortex-M3 processor and its market positioning.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 432,
-      "hash_sha256": "cdb425299d5d512d89766e534984dcdf36efe1e7d32c4baf8fa7260f83298f9f",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_1_2",
-        "ES_Mod1@AzDOCUMENTS2.pdf_1_4"
-      ],
-      "created_at": "2025-11-25T12:57:17.142752"
-    },
-    "page_number": 1,
-    "token_count": 432
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_1_4",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::1",
-    "content": "\uf0fc Greater performance efficiency: allowing more work to be done without increasing the frequency or power requirements\n\uf0fc Low power consumption: enabling longer battery life, especially critical in portable products including wireless networking applications.\n\uf0fc Enhanced determinism: guaranteeing that critical tasks and interrupts are serviced as quickly",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_1_4",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 1,
-      "bbox": null,
-      "section_title": "Cortex-M3 Advantages",
-      "chunk_summary": "Key advantages of the Cortex-M3 processor.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 354,
-      "hash_sha256": "5109c0f97c8d16908cdc89cd3e303566ea1c131db1515472cbd6da5a47a3e10f",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_1_3",
         "ES_Mod1@AzDOCUMENTS2.pdf_2_0"
       ],
-      "created_at": "2025-11-25T12:57:17.142752"
+      "created_at": "2025-11-26T10:37:07.112453"
     },
     "page_number": 1,
-    "token_count": 354
+    "token_count": 733
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_2_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::2",
-    "content": "Embedded Systems-18EC62\nAzdocuments.in\nwww.azdocuments.in\nPage 2\n\nas possible and in a known number of cycles\n\uf0fc Improved code density: ensuring that code fits in even the smallest memory footprints\n\uf0fc Ease of use: providing easier programmability and debugging for the growing number of 8-bit and 16-bit users migrating to 32 bits\n\uf0fc Lower cost solutions: reducing 32-bit-based system costs close to those of legacy 8-bit and 16-bit devices\n\uf0fc Wide choice of development tools: from low-cost or free compilers to full-featured development suites from many development tool vendors.",
+    "content": "Embedded Systems-18EC62 Azdocuments.in www.azdocuments.in Page 2 as possible and in a known number of cycles Improved code density: ensuring that code fits in even the smallest memory footprints Ease of use: providing easier programmability and debugging for the growing number of 8-bit and 16-bit users migrating to 32 bits Lower cost solutions: reducing 32-bit-based system costs close to those of legacy 8-bit and 16-bit devices Wide choice of development tools: from low-cost or free compilers to full-featured development suites from many development tool vendors.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_2_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 2,
       "bbox": null,
-      "section_title": "ARM Advantages Overview",
-      "chunk_summary": "Key benefits of moving to 32\u2011bit ARM processors.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 578,
-      "hash_sha256": "b5eb9e6af0b2579629af5a94bbf8e5fdf6d939d2bb728a0a6b158ffb8d78d9bd",
+      "section_title": "Introduction to Embedded Systems",
+      "chunk_summary": "Overview of key features and benefits of embedded systems.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 569,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_1_4",
+        "ES_Mod1@AzDOCUMENTS2.pdf_1_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_2_1"
       ],
-      "created_at": "2025-11-25T12:57:46.271422"
+      "created_at": "2025-11-26T10:37:11.415423"
     },
     "page_number": 2,
-    "token_count": 578
+    "token_count": 569
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_2_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::2",
-    "content": "ARM was formed in 1990 as Advanced RISC Machines Ltd., a joint venture of Apple Computer, Acorn Computer Group, and VLSI Technology. In 1991, ARM introduced the ARM6 processor family, and VLSI became the initial licensee. Subsequently, additional companies, including Texas Instruments, NEC, Sharp, and ST Microelectronics, licensed the ARM processor designs, extending the applications of ARM processors into mobile phones, computer hard disks, personal digital assistants (PDAs), home entertainment systems, and many other consumer products.",
+    "content": "Brief History of ARM ARM was formed in 1990 as Advanced RISC Machines Ltd., a joint venture of Apple Computer, Acorn Computer Group, and VLSI Technology. In 1991, ARM introduced the ARM6 processor family, and VLSI became the initial licensee. Subsequently, additional companies, including Texas Instruments, NEC, Sharp, and ST Microelectronics, licensed the ARM processor designs, extending the applications of ARM processors into mobile phones, computer hard disks, personal digital assistants (PDAs), home entertainment systems, and many other consumer products.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_2_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 2,
       "bbox": null,
       "section_title": "Brief History of ARM",
-      "chunk_summary": "Overview of ARM's formation and early licensing history.",
+      "chunk_summary": "Historical development and licensing of ARM processors.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 543,
-      "hash_sha256": "cea54a646d99a0035cb42c5c300765e151b926292fe4d4f818ee7b6d2f0ffef3",
+      "token_count": 564,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -196,28 +128,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_2_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_2_2"
       ],
-      "created_at": "2025-11-25T12:57:46.271422"
+      "created_at": "2025-11-26T10:37:11.415423"
     },
     "page_number": 2,
-    "token_count": 543
+    "token_count": 564
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_2_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::2",
-    "content": "Over the years, ARM has continued to develop new processors and system blocks. These include the popular ARM7TDMI processor and, more recently, the ARM1176TZ(F)-S processor, which is used in high\u2011end applications such as smart phones. The evolution of features and enhancements to the processors over time has led to successive versions of the ARM architecture. Note that architecture version numbers are independent from processor names. For example, the ARM7TDMI processor is based on the ARMv4T architecture (the T is for Thumb\u00ae instruction mode support).",
+    "content": "Architecture Versions Over the years, ARM has continued to develop new processors and system blocks. These include the popular ARM7TDMI processor and, more recently, the ARM1176TZ(F)-S processor, which is used in high-end applications such as smart phones. The evolution of features and enhancements to the processors over time has led to successive versions of the ARM architecture. Note that architecture version numbers are independent from processor names. For example, the ARM7TDMI processor is based on the ARMv4T architecture (the T is for Thumb\u00ae instruction mode support). Over the past several years, ARM extended its product portfolio by diversifying its CPU development, which resulted in the architecture version 7 or v7. In this version, the architecture design is divided into three profiles:",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_2_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 2,
       "bbox": null,
       "section_title": "Architecture Versions",
-      "chunk_summary": "Description of ARM architecture evolution and versioning.",
+      "chunk_summary": "Development and diversification of ARM architecture versions.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 558,
-      "hash_sha256": "b1b3104fce6d5ca05b3721dad13828300d3fee6ce2d2237a851729a0af702459",
+      "token_count": 806,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -225,28 +155,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_2_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_2_3"
       ],
-      "created_at": "2025-11-25T12:57:46.271422"
+      "created_at": "2025-11-26T10:37:11.415423"
     },
     "page_number": 2,
-    "token_count": 558
+    "token_count": 806
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_2_3",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::2",
-    "content": "Over the past several years, ARM extended its product portfolio by diversifying its CPU development, which resulted in the architecture version 7 or v7. In this version, the architecture design is divided into three profiles:\n\uf0fc A Profile (ARMv7-A): Application processors which are designed to handle complex applications such as high\u2011end embedded operating systems (OSs) (e.g., Symbian, Linux, and Windows Embedded). These processors require the highest processing power, virtual memory system support with memory management units (MMUs), and, optionally, enhanced Java support and a secure program execution environment. Example products include high\u2011end mobile phones and electronic wallets for financial transactions.\n\uf0fc R Profile (ARMv7-R): Real\u2011time, high\u2011performance processors targeted primarily at the higher end of the real\u2011time market\u2014those applications, such as high\u2011end braking systems and hard drive",
+    "content": "\u2022 A Profile (ARMv7-A): Application processors which are designed to handle complex applications such as high-end embedded operating systems (OSs) (e.g., Symbian, Linux, and Windows Embedded). These processors requiring the highest processing power, virtual memory system support with memory management units (MMUs), and, optionally, enhanced Java support and a secure program execution environment. Example products include high-end mobile phones and electronic wallets for financial transactions.\n\u2022 R Profile (ARMv7-R): Real-time, high-performance processors targeted primarily at the higher end of the real-time market\u2014those applications, such as high-end breaking systems and hard drive",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_2_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 2,
       "bbox": null,
-      "section_title": "ARMv7 Profiles",
-      "chunk_summary": "Details of ARMv7 architecture profiles A and R.",
+      "section_title": "ARM Architecture Profiles",
+      "chunk_summary": "Different profiles within ARMv7 architecture for various applications.",
       "chunk_type": "bullet_list",
       "content_type": "markdown",
-      "token_count": 912,
-      "hash_sha256": "c16ddbbac8c8ad266a01e52ab9c97a9928d3fd7aa1a6cba7fbd9fd0a7c9e1ed1",
+      "token_count": 689,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -254,28 +182,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_2_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_3_0"
       ],
-      "created_at": "2025-11-25T12:57:46.271422"
+      "created_at": "2025-11-26T10:37:11.415423"
     },
     "page_number": 2,
-    "token_count": 912
+    "token_count": 689
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_3_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::3",
-    "content": "Embedded Systems-18EC62\nAzdocuments.in\nwww.azdocuments.in\nPage 3\n\ncontrollers, in which high processing power and high reliability are essential and for which low latency is important.",
+    "content": "Embedded Systems-18EC62 Azdocuments.in www.azdocuments.in Page 3 controllers, in which high processing power and high reliability are essential and for which low latency is important.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_3_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 3,
       "bbox": null,
       "section_title": "Embedded Systems Overview",
-      "chunk_summary": "Document header and controller requirements for high processing power and low latency.",
+      "chunk_summary": "Introduction to embedded systems and processor profiles.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 184,
-      "hash_sha256": "3b104ef5113c485a0dfabcb081a1717e1c564f7e7510fea1ad53799e09af6a0e",
+      "token_count": 183,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -283,28 +209,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_2_3",
         "ES_Mod1@AzDOCUMENTS2.pdf_3_1"
       ],
-      "created_at": "2025-11-25T12:58:11.828948"
+      "created_at": "2025-11-26T10:37:14.894695"
     },
     "page_number": 3,
-    "token_count": 184
+    "token_count": 183
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_3_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::3",
-    "content": "\u2022 M Profile (ARMv7-M): Processors targeting low-cost applications in which processing efficiency is important and cost, power consumption, low interrupt latency, and ease of use are critical, as well as industrial control applications, including real-time control systems.",
+    "content": "M Profile (ARMv7-M): Processors targeting low-cost applications in which processing efficiency is important and cost, power consumption, low interrupt latency, and ease of use are critical, as well as industrial control applications, including real-time control systems.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_3_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 3,
       "bbox": null,
       "section_title": "Processor Profiles",
-      "chunk_summary": "Description of the ARMv7-M M Profile targeting low\u2011cost, efficient, low\u2011latency applications.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 272,
-      "hash_sha256": "c6e2f9e57b231777b21cc60e9b90b1083e8df5637226fb64b55834430500b621",
+      "chunk_summary": "Description of ARM processor profiles targeting different applications.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 270,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -312,28 +236,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_3_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_3_2"
       ],
-      "created_at": "2025-11-25T12:58:11.829521"
+      "created_at": "2025-11-26T10:37:14.894695"
     },
     "page_number": 3,
-    "token_count": 272
+    "token_count": 270
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_3_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::3",
-    "content": "The Thumb-2 Technology and Instruction Set Architecture\n\nThe Thumb-2 technology extended the Thumb Instruction Set Architecture (ISA) into a highly efficient and powerful instruction set that delivers significant benefits in terms of ease of use, code size, and performance. The extended instruction set in Thumb-2 is a superset of the previous 16-bit Thumb instruction set, with additional 16-bit instructions alongside 32-bit instructions. It allows more complex operations to be carried out in the Thumb state, thus allowing higher efficiency by reducing the number of states switching between ARM state and Thumb state.",
+    "content": "The Thumb-23 technology extended the Thumb Instruction Set Architecture (ISA) into a highly efficient and powerful instruction set that delivers significant benefits in terms of ease of use, code size, and performance (see Figure 1). The extended instruction set in Thumb-2 is a superset of the previous 16-bit Thumb instruction set, with additional 16-bit instructions alongside 32-bit instructions. It allows more complex operations to be carried out in the Thumb state, thus allowing higher efficiency by reducing the number of states switching between ARM state and Thumb state.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_3_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 3,
       "bbox": null,
-      "section_title": "Thumb-2 Technology and ISA",
-      "chunk_summary": "Thumb-2 extends the ISA with 16\u2011 and 32\u2011bit instructions, improving code size and performance.",
+      "section_title": "Thumb-2 Technology and Instruction Set Architecture",
+      "chunk_summary": "Overview of Thumb-2 technology and its benefits in instruction set architecture.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 623,
-      "hash_sha256": "7a334be44d9b354d31501c851bdfc8c05ca9458a8216a9214423280adda98a8b",
+      "token_count": 582,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -341,434 +263,566 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_3_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_3_3"
       ],
-      "created_at": "2025-11-25T12:58:11.830078"
+      "created_at": "2025-11-26T10:37:14.896743"
     },
     "page_number": 3,
-    "token_count": 623
+    "token_count": 582
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_3_3",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::3",
-    "content": "Instruction Set Switching Benefits\n\nWith support for both 16-bit and 32-bit instructions in the Thumb-2 instruction set, there is no need to switch the processor between Thumb state (16-bit instructions) and ARM state (32-bit instructions). For example, in ARM7 or ARM9 family processors, you might need to switch to ARM state if you want to carry out complex calculations or a large number of conditional operations and good performance is needed, whereas in the Cortex-M3 processor, you can mix 32-bit instructions with 16-bit instructions without switching state, getting high code density and high performance with no extra complexity.",
+    "content": "<table><tr><th>Instruction Set</th><th>Description</th></tr><tr><td>Thumb-2</td><td>Supports both 16-bit and 32-bit instructions, enabling complex operations without switching states.</td></tr><tr><td>Traditional Thumb</td><td>Uses only 16-bit instructions, requiring state switches for complex calculations.</td></tr></table>",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_3_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 3,
       "bbox": null,
-      "section_title": "Instruction Set Switching Benefits",
-      "chunk_summary": "Thumb-2 allows mixing 16\u2011 and 32\u2011bit instructions without state switching, enhancing code density and performance.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 639,
-      "hash_sha256": "0bf9ed0b6a80f182c49856181ab29ca72db93bd3d0672908db34e9a87a4524b8",
+      "section_title": "Relationship between Thumb Instructions in Thumb-2 and Traditional Thumb",
+      "chunk_summary": "Comparison of instruction sets in Thumb-2 technology and traditional Thumb.",
+      "chunk_type": "table",
+      "content_type": "tabular",
+      "token_count": 326,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_3_2",
-        "ES_Mod1@AzDOCUMENTS2.pdf_4_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_3_4"
       ],
-      "created_at": "2025-11-25T12:58:11.831200"
+      "created_at": "2025-11-26T10:37:14.896743"
     },
     "page_number": 3,
-    "token_count": 639
+    "token_count": 326
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_3_4",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::3",
+    "content": "With support for both 16-bit and 32-bit instructions in the Thumb-2 instruction set, there is no need to switch the processor between Thumb state (16-bit instructions) and ARM state (32-bit instructions). For example, in ARM7 or ARM9 family processors, you might need to switch to ARM state if you want to carry out complex calculations or a large number of conditional operations and good performance is needed, whereas in the Cortex-M3 processor, you can mix 32-bit instructions with 16-bit instructions without switching state, getting high code density and high performance with no extra complexity.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_3_4",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 3,
+      "bbox": null,
+      "section_title": "Advantages of Thumb-2",
+      "chunk_summary": "Benefits of Thumb-2 instruction set in processor performance and efficiency.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 603,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_3_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_4_0"
+      ],
+      "created_at": "2025-11-26T10:37:14.896743"
+    },
+    "page_number": 3,
+    "token_count": 603
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_4_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::4",
-    "content": "Cortex-M3 Processor Applications\n\n- Low-cost microcontrollers: The Cortex-M3 processor is ideally suited for low-cost microcontrollers, which are commonly used in consumer products, from toys to electrical appliances. It is a highly competitive market due to the many well-known 8-bit and 16-bit microcontroller products on the market. Its lower power, high performance, and ease-of-use advantages enable embedded developers to migrate to 32-bit systems and develop products with the ARM architecture.\n\n- Automotive: Another ideal application for the Cortex-M3 processor is in the automotive industry. The Cortex-M3 processor has very high-performance efficiency and low interrupt latency, allowing it to be used in real-time systems. The Cortex-M3 processor supports up to 240 external vectored interrupts, with a built-in interrupt controller with nested interrupt supports and an optional MPU, making it ideal for highly integrated and cost-sensitive automotive applications.\n\n- Data communications: The processor\u2019s low power and high efficiency, coupled with instructions in Thumb-2 for bit-field manipulation, make the Cortex-M3 ideal for many communications applications, such as Bluetooth and ZigBee.\n\n- Industrial control: In industrial control applications, simplicity, fast response, and reliability are key factors. Again, the Cortex-M3 processors interrupt feature, low interrupt latency, and enhanced fault-handling features make it a strong candidate in this area.\n\n- Consumer products: In many consumer products, a high-performance microprocessor (or several of them) is used. The Cortex-M3 processor, being a small processor, is highly efficient and low in power and supports an MPU enabling complex software to execute while providing robust memory protection.",
+    "content": "The Cortex-M3 processor is used in various fields due to its low cost, high performance, and efficiency. It is suitable for low-cost microcontrollers in consumer products, automotive systems, data communications, industrial control, and consumer electronics. Its features enable migration to 32-bit systems and support real-time, embedded applications with high reliability and low power consumption.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_4_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 4,
       "bbox": null,
       "section_title": "Cortex-M3 Processor Applications",
-      "chunk_summary": "Various application domains for Cortex-M3 processors.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 1777,
-      "hash_sha256": "05fd38cec3ef7472cc8a4b65532787f2f27bc1a9553bdb8813a0e30d6a0b96d0",
+      "chunk_summary": "Overview of various applications for the Cortex-M3 processor.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 400,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_3_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_3_4",
         "ES_Mod1@AzDOCUMENTS2.pdf_4_1"
       ],
-      "created_at": "2025-11-25T12:58:41.106218"
+      "created_at": "2025-11-26T10:37:17.966719"
     },
     "page_number": 4,
-    "token_count": 1777
+    "token_count": 400
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_4_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::4",
-    "content": "Architecture of ARM Cortex-M3\n\nThe Cortex\u2122-M3 is a 32-bit microprocessor. It has a 32-bit data path, a 32-bit register bank, and 32-bit memory interfaces. The processor has a Harvard architecture, which means that it has a separate instruction bus and data bus. This allows instructions and data accesses to take place at the same time, and as a result the performance of the processor increases because data accesses do not affect the instruction pipeline. This feature results in multiple bus interfaces on Cortex-M3, each with optimized usage and the ability to be used simultaneously. However, the instruction and data buses share the same memory space (a unified memory system). In other words, you cannot get 8 GB of memory space just because you have separate bus interfaces.",
+    "content": "\u2022 Low-cost microcontrollers: Used in consumer products, toys, and appliances, enabling migration to 32-bit ARM architecture.\n\u2022 Automotive: Suitable for real-time automotive systems with high-performance efficiency and low interrupt latency.\n\u2022 Data communications: Ideal for Bluetooth, ZigBee, and other communication protocols due to low power and instruction efficiency.\n\u2022 Industrial control: Suitable for applications requiring fast response, reliability, and fault handling.\n\u2022 Consumer products: Supports complex software with robust memory protection in small, efficient processors.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_4_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 4,
       "bbox": null,
-      "section_title": "Architecture of ARM Cortex-M3",
-      "chunk_summary": "Description of the Cortex-M3 architecture and its Harvard design.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 782,
-      "hash_sha256": "0ce337ac61b577264cad8b971d2b5ea8e5f8113719456f476352eb666075b824",
+      "section_title": "Applications of Cortex-M3",
+      "chunk_summary": "Key application areas for the Cortex-M3 processor.",
+      "chunk_type": "bullet_list",
+      "content_type": "markdown",
+      "token_count": 586,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_4_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_5_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_4_2"
       ],
-      "created_at": "2025-11-25T12:58:41.107311"
+      "created_at": "2025-11-26T10:37:17.966719"
     },
     "page_number": 4,
-    "token_count": 782
+    "token_count": 586
   },
   {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_5_0",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::5",
-    "content": "\uf0fc The Cortex-M3 processor is a 32\u2011bit processor, with a 32\u2011bit wide data path, register bank and memory interface. There are 13 general\u2011purpose registers, two stack pointers, a link register, a program counter and a number of special registers including a program status register.\n\n\uf0fc The Cortex-M3 core contains a decoder for traditional Thumb and new Thumb\u20112 instructions, an advanced ALU with support for hardware multiply and divide, control logic, and interfaces to the other components of the processor.\n\n\uf0fc The Cortex-M3 processor is a 32\u2011bit processor, with a 32\u2011bit wide data path, register bank and memory interface. There are 13 general\u2011purpose registers, two stack pointers, a link register, a program counter and a number of special registers including a program status register.\n\n\uf0fc The Cortex-M3 processor is a memory\u2011mapped system with a simple, fixed memory map for up to 4\u202fGB of addressable memory space with predefined, dedicated addresses for code (code space), SRAM (memory space), external memories/devices and internal/external peripherals. There is also a special region to provide for vendor\u2011specific addressability.",
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_4_2",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::4",
+    "content": "The Cortex-M3 is a 32-bit microprocessor featuring a 32-bit data path, register bank, and memory interfaces. It employs a Harvard architecture with separate instruction and data buses, allowing simultaneous access to instructions and data, which enhances performance. Despite separate bus interfaces, the instruction and data buses share the same memory space, limiting total addressable memory to less than 8 GB.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_5_0",
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_4_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
-      "page_number": 5,
+      "page_number": 4,
       "bbox": null,
-      "section_title": "Cortex-M3 Processor Overview",
-      "chunk_summary": "Key characteristics, core features, and memory map of the Cortex\u2011M3 processor.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 1138,
-      "hash_sha256": "8909cdd63f3b1507983e35218b9c914d606d6099534ec0e50ddd93eadf134ff2",
+      "section_title": "Architecture of ARM Cortex-M3",
+      "chunk_summary": "Details of the ARM Cortex-M3 microprocessor architecture.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 413,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_4_1",
-        "ES_Mod1@AzDOCUMENTS2.pdf_6_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_4_3"
       ],
-      "created_at": "2025-11-25T12:58:54.899048"
+      "created_at": "2025-11-26T10:37:17.966719"
     },
-    "page_number": 5,
-    "token_count": 1138
+    "page_number": 4,
+    "token_count": 413
   },
   {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::6",
-    "content": "\u2022 The MPU is an optional component of the Cortex-M3 processor that can improve the reliability of an embedded system by protecting critical data used by the operating system from user applications, separating processing tasks by disallowing access to each other's data, disabling access to memory regions, allowing memory regions to be defined as read\u2011only and detecting unexpected memory accesses that could potentially break the system.\n\u2022 The highly configurable NVIC is an integral part of the Cortex-M3 processor and provides the processor\u2019s outstanding interrupt handling abilities. In its standard implementation it supplies a Non\u2011Maskable Interrupt (NMI) and 32 general purpose physical interrupts with 8 levels of pre\u2011emption priority. It can be configured to anywhere between 1 and 240 physical interrupts with up to 256 levels of priority though simple synthesis choices.\n\u2022 The debug access into a Cortex\u2011M3 processor based system is through the Debug Access Port (DAP) that can be implemented as either a Serial Wire Debug Port (SW\u2011DP) for a two\u2011pin (clock and data) Interface or a Serial Wire JTAG Debug Port (SWJ\u2011DP) that enables either JTAG or SW protocol to be used. The SWJ\u2011DP defaults to JTAG mode on power reset and can be made to switch protocols with a specific control sequence provided by the external debug hardware.\n\u2022 The Cortex\u2011M3 processor bus matrix connects the processor and debug interface to the external buses; the 32\u2011bit AMBA\u00ae AHB\u2011Lite based ICode, DCode and System interfaces and the 32\u2011bit AMBA APB\u2122 based Private Peripheral Bus (PPB). The bus matrix also implements unaligned data accesses and bit banding.",
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_4_3",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::4",
+    "content": "<table>\n<tr><th>Feature</th><th>Description</th></tr>\n<tr><td>Data Path</td><td>32-bit</td></tr>\n<tr><td>Register Bank</td><td>32-bit</td></tr>\n<tr><td>Memory Interface</td><td>32-bit</td></tr>\n<tr><td>Architecture Type</td><td>Harvard architecture with separate instruction and data buses</td></tr>\n<tr><td>Memory Space</td><td>Shared between instruction and data buses, limited to less than 8 GB</td></tr>\n<tr><td>Bus Interfaces</td><td>Multiple, optimized for simultaneous use</td></tr>\n</table>",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_4_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
-      "page_number": 6,
+      "page_number": 4,
       "bbox": null,
-      "section_title": "Cortex-M3 Processor Features",
-      "chunk_summary": "Key optional components and capabilities of the Cortex-M3 processor.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 1642,
-      "hash_sha256": "fd6e8cd51bbf5f64655c694e83e55fee258fe0ebcc608e7ffd28650c6be8154a",
+      "section_title": "Cortex-M3 Architecture Details",
+      "chunk_summary": "Summary of key architectural features of Cortex-M3.",
+      "chunk_type": "table",
+      "content_type": "tabular",
+      "token_count": 498,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_4_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_0"
+      ],
+      "created_at": "2025-11-26T10:37:17.969778"
+    },
+    "page_number": 4,
+    "token_count": 498
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_5_0",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::5",
+    "content": "The Cortex-M3 processor is a 32-bit processor, with a 32-bit wide data path, register bank and memory interface. There are 13 general-purpose registers, two stack pointers, a link register, a program counter and a number of special registers including a program status register.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_5_0",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 5,
+      "bbox": null,
+      "section_title": "Embedded Systems Overview",
+      "chunk_summary": "Introduction to the Cortex-M3 processor architecture and features.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 278,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_4_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_1"
+      ],
+      "created_at": "2025-11-26T10:37:20.015178"
+    },
+    "page_number": 5,
+    "token_count": 278
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_5_1",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::5",
+    "content": "<figure> <img src='Fig1. 2. A Simplified View of the CortexM3.' alt='Simplified View of Cortex-M3'> </figure>",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_5_1",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 5,
+      "bbox": null,
+      "section_title": "Embedded Systems Overview",
+      "chunk_summary": "Simplified diagram of the Cortex-M3 processor.",
+      "chunk_type": "figure",
+      "content_type": "narrative",
+      "token_count": 109,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_5_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_7_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_2"
       ],
-      "created_at": "2025-11-25T12:59:15.811780"
+      "created_at": "2025-11-26T10:37:20.015178"
+    },
+    "page_number": 5,
+    "token_count": 109
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_5_2",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::5",
+    "content": "The Cortex-M3 core contains a decoder for traditional Thumb and new Thumb-2 instructions, an advanced ALU with support for hardware multiply and divide, control logic, and interfaces to the other components of the processor.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_5_2",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 5,
+      "bbox": null,
+      "section_title": "Cortex-M3 Instruction Support",
+      "chunk_summary": "Details on instruction decoding and ALU features of Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 224,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_3"
+      ],
+      "created_at": "2025-11-26T10:37:20.015178"
+    },
+    "page_number": 5,
+    "token_count": 224
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_5_3",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::5",
+    "content": "The Cortex-M3 processor is a memory mapped system with a simple, fixed memory map for up to 4 gigabytes of addressable memory space with predefined, dedicated addresses for code (code space), SRAM (memory space), external memories/devices and internal/external peripherals. There is also a special region to provide for vendor specific addressability.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_5_3",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 5,
+      "bbox": null,
+      "section_title": "Processor Architecture and Memory Map",
+      "chunk_summary": "Description of the memory architecture and addressability of Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 351,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_6_0"
+      ],
+      "created_at": "2025-11-26T10:37:20.015178"
+    },
+    "page_number": 5,
+    "token_count": 351
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::6",
+    "content": "The MPU is an optional component of the Cortex-M3 processor that can improve the reliability of an embedded system by protecting critical data used by the operating system from user applications, separating processing tasks by disallowing access to each other's data, disabling access to memory regions, allowing memory regions to be defined as read-only and detecting unexpected memory accesses that could potentially break the system.\n\nThe highly configurable NVIC is an integral part of the Cortex-M3 processor and provides the processor\u2019s outstanding interrupt handling abilities. In its standard implementation it supplies a NonMaskable Interrupt (NMI) and 32 general purpose physical interrupts with 8 levels of pre-emption priority. It can be configured to anywhere between 1 and 240 physical interrupts with up to 256 levels of priority though simple synthesis choices.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 6,
+      "bbox": null,
+      "section_title": "Embedded Systems Overview",
+      "chunk_summary": "Introduction to key components of the Cortex-M3 processor system.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 877,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_5_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_6_1"
+      ],
+      "created_at": "2025-11-26T10:37:22.576656"
     },
     "page_number": 6,
-    "token_count": 1642
+    "token_count": 877
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_6_1",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::6",
+    "content": "The debug access into a Cortex-M3 processor based system is through the Debug Access Port (DAP) that can be implemented as either a Serial Wire Debug Port (SW-DP) for a two-pin (clock and data) Interface or a Serial Wire JTAG Debug Port (SWJ-DP) that enables either JTAG or SW protocol to be used. The SWJ-DP defaults to JTAG mode on power reset and can be made to switch protocols with a specific control sequence provided by the external debug hardware.\n\nThe Cortex-M3 processor bus matrix connects the processor and debug interface to the external buses; the 32-bit AMBA\u00ae AHB-Lite based ICode, DCode and System interfaces and the 32-bit AMBA APB\u2122 based Private Peripheral Bus (PPB). The bus matrix also implements unaligned data accesses and bit banding.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_6_1",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 6,
+      "bbox": null,
+      "section_title": "Debug Access and Bus Matrix",
+      "chunk_summary": "Details on debug access ports and the processor bus matrix in Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 757,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_7_0"
+      ],
+      "created_at": "2025-11-26T10:37:22.576656"
+    },
+    "page_number": 6,
+    "token_count": 757
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_7_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::7",
-    "content": "The Cortex-M3 processor has registers R0 through R15. R13 (the stack pointer) is banked, with only one copy of the R13 visible at a time. R0\u2013R12 are 32-bit general-purpose registers for data operations; some 16-bit Thumb\u00ae instructions can only access the low registers R0\u2013R7.",
+    "content": "The Cortex-M3 processor has registers R0 through R15. R13 (the stack pointer) is banked, with only one copy of the R13 visible at a time. R0\u2013R12: General-Purpose Registers R0\u2013R12 are 32-bit general-purpose registers for data operations. Some 16-bit Thumb\u00ae instructions can only access a subset of these registers (low registers, R0\u2013R7). R13: Stack Pointers The Cortex-M3 contains two stack pointers (R13). They are banked so that only one is visible at a time. The two stack pointers are as follows: 1. Main Stack Pointer (MSP): The default stack pointer, used by the operating system (OS) kernel and exception handlers 2. Process Stack Pointer (PSP): Used by user application code. R14: The Link Register When a subroutine is called, the return address is stored in the link register. R15: The Program Counter The program counter is the current program address. This register can be written to control the program flow.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_7_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 7,
       "bbox": null,
       "section_title": "Registers in Cortex-M3 processor",
-      "chunk_summary": "Overview of Cortex-M3 registers and their purposes.",
+      "chunk_summary": "Overview of the register set in the Cortex-M3 processor.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 275,
-      "hash_sha256": "3b33daa8118a1da9ba2f90ed9c90bf9441417dfba0c4dcef460a492c43211640",
+      "token_count": 920,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_6_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_6_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_7_1"
       ],
-      "created_at": "2025-11-25T12:59:37.024584"
+      "created_at": "2025-11-26T10:37:24.538576"
     },
     "page_number": 7,
-    "token_count": 275
+    "token_count": 920
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_7_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::7",
-    "content": "1. Main Stack Pointer (MSP): The default stack pointer, used by the operating system (OS) kernel and exception handlers.\n2. Process Stack Pointer (PSP): Used by user application code.",
+    "content": "Fig1. 3. Registers in the Cortex-M3",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_7_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 7,
       "bbox": null,
-      "section_title": "R13: Stack Pointers",
-      "chunk_summary": "Two stack pointers available in Cortex-M3.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 183,
-      "hash_sha256": "fda3cebdb1108574ecaa2e0b73bec79990a473c375950ae71197afd692692b2e",
+      "section_title": "Registers in Cortex-M3 processor",
+      "chunk_summary": "Additional details about the register functions and diagram reference.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 35,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_7_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_7_2"
-      ],
-      "created_at": "2025-11-25T12:59:37.024584"
-    },
-    "page_number": 7,
-    "token_count": 183
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_7_2",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::7",
-    "content": "R14: The Link Register stores the return address when a subroutine is called. R15: The Program Counter holds the current program address and can be written to control program flow.",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_7_2",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 7,
-      "bbox": null,
-      "section_title": "R14 and R15 Registers",
-      "chunk_summary": "Description of the Link Register and Program Counter.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 180,
-      "hash_sha256": "e0fca7cea4dce607cef365429151223c27629e28843a2edc99adeb43e094b521",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_7_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_8_0"
       ],
-      "created_at": "2025-11-25T12:59:37.024584"
+      "created_at": "2025-11-26T10:37:24.538576"
     },
     "page_number": 7,
-    "token_count": 180
+    "token_count": 35
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_8_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::8",
-    "content": "Stack Pointer R13\n\nR13 is the stack pointer (SP). In the Cortex\u2011M3 processor, there are two SPs. This duality allows two separate stack memories to be set up. When using the register name R13, you can only access the current SP; the other one is inaccessible unless you use special instructions to move to special register from general\u2011purpose register (MSR) and move special register to general\u2011purpose register (MRS).",
+    "content": "R13 is the stack pointer (SP). In the Cortex-M3 processor, there are two SPs. This duality allows two separate stack memories to be set up. When using the register name R13, you can only access the current SP; the other one is inaccessible unless you use special instructions to move to special register from general-purpose register (MSR) and move special register to general-purpose register (MRS). The two SPs are as follows:",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_8_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 8,
       "bbox": null,
-      "section_title": "Stack Pointer (R13) Overview",
-      "chunk_summary": "Describes R13 as the stack pointer and dual SP architecture in Cortex\u2011M3.",
+      "section_title": "Stack Pointer R13",
+      "chunk_summary": "Overview of R13 as the stack pointer in Cortex-M3, including its duality and access methods.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 419,
-      "hash_sha256": "dd83189c4b271214562c6b53893d7ec83948638f47886a9bd634905db7639536",
+      "token_count": 428,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_7_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_7_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_8_1"
       ],
-      "created_at": "2025-11-25T12:59:51.376617"
+      "created_at": "2025-11-26T10:37:27.054784"
     },
     "page_number": 8,
-    "token_count": 419
+    "token_count": 428
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_8_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::8",
-    "content": "\u2022 Main Stack Pointer (MSP) or SP_main in ARM documentation: This is the default SP; it is used by the operating system (OS) kernel, exception handlers, and all application codes that require privileged access.\n\u2022 Process Stack Pointer (PSP) or SP_process in ARM documentation: This is used by the base\u2011level application code (when not running an exception handler).",
+    "content": "\u2022 Main Stack Pointer (MSP) or SP_main in ARM documentation: This is the default SP; it is used by the operating system (OS) kernel, exception handlers, and all application codes that require privileged access.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_8_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 8,
       "bbox": null,
-      "section_title": "Stack Pointer Types",
-      "chunk_summary": "Lists the Main Stack Pointer and Process Stack Pointer.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 364,
-      "hash_sha256": "2e73d3f8dc2fb4154fd097a66ea5b2175f331ef6cb09c60fc1d754eb5a6887a5",
+      "section_title": "Main Stack Pointer (MSP)",
+      "chunk_summary": "Description of MSP as the default stack pointer used by privileged code and exception handlers.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 209,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_8_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_9_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_8_2"
       ],
-      "created_at": "2025-11-25T12:59:51.377123"
+      "created_at": "2025-11-26T10:37:27.054784"
     },
     "page_number": 8,
-    "token_count": 364
+    "token_count": 209
   },
   {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_9_0",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::9",
-    "content": "In the Cortex-M3, the instructions for accessing stack memory are PUSH and POP. The assembly language syntax is as follows (text after each semicolon [;] is a comment):\nPUSH {R0} ; R13=R13-4, then Memory[R13] = R0\n\nPOP {R0} ; R0 = Memory[R13], then R13 = R13 + 4",
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_8_2",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::8",
+    "content": "\u2022 Process Stack Pointer (PSP) or SP_process in ARM documentation: This is used by the base-level application code (when not running an exception handler).",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_9_0",
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_8_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
-      "page_number": 9,
+      "page_number": 8,
       "bbox": null,
-      "section_title": "Stack Memory Access (PUSH and POP)",
-      "chunk_summary": "Describes PUSH and POP instructions for stack access in Cortex\u2011M3.",
+      "section_title": "Process Stack Pointer (PSP)",
+      "chunk_summary": "Description of PSP used by application code when not handling exceptions.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 262,
-      "hash_sha256": "36de25cb57d3573add4700a3fd01c9a44f5db8413c6bb83be2cc900417666d27",
+      "token_count": 154,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_8_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_9_0"
+      ],
+      "created_at": "2025-11-26T10:37:27.054784"
+    },
+    "page_number": 8,
+    "token_count": 154
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_9_0",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::9",
+    "content": "In the Cortex-M3, the instructions for accessing stack memory are PUSH and POP. The assembly language syntax is as follows (text after each semicolon [;] is a comment): PUSH {R0} ; R13=R13-4, then Memory[R13] = R0 POP {R0} ; R0 = Memory[R13], then R13 = R13 + 4 Link Register R14: R14 is the link register (LR). Inside an assembly program, you can write it as either R14 or LR. LR is used to store the return program counter (PC) when a subroutine or function is called\u2014for example, when you\u2019re using the branch and link (BL) instruction.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_9_0",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 9,
+      "bbox": null,
+      "section_title": "Embedded Systems - Cortex-M3 Instruction Access",
+      "chunk_summary": "Overview of stack memory access instructions and register usage in Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 538,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_8_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_9_1"
       ],
-      "created_at": "2025-11-25T13:00:06.352229"
+      "created_at": "2025-11-26T10:37:29.436907"
     },
     "page_number": 9,
-    "token_count": 262
+    "token_count": 538
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_9_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::9",
-    "content": "Link Register R14:\n\nR14 is the link register (LR). Inside an assembly program, you can write it as either R14 or LR. LR is used to store the return program counter (PC) when a subroutine or function is called\u2014for example, when you\u2019re using the branch and link (BL) instruction.",
+    "content": "Program Counter R15: R15 is the PC. You can access it in assembler code by either R15 or PC. Because of the pipelined nature of the Cortex-M3 processor, when you read this register, you will find that the value is different than the location of the executing instruction, normally by 4. 0x1000 : MOV R0, PC ; R0 = 0x1004 In other instructions like literal load (reading of a memory location related to current PC value), the effective value of PC might not be instruction address plus 4 due to alignment in address calculation. But the PC value is still at least 2 bytes ahead of the instruction address during execution.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_9_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 9,
       "bbox": null,
-      "section_title": "Link Register (R14)",
-      "chunk_summary": "Explains the role of the link register (R14/LR) in subroutine calls.",
+      "section_title": "Program Counter (R15) in Cortex-M3",
+      "chunk_summary": "Details about accessing and understanding the PC register in Cortex-M3 assembly.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 277,
-      "hash_sha256": "067a4a840266c906b38836f51ec494861b15ead8916cbd1bcec54ba819e28c98",
+      "token_count": 621,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_9_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_9_2"
-      ],
-      "created_at": "2025-11-25T13:00:06.352994"
-    },
-    "page_number": 9,
-    "token_count": 277
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_9_2",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::9",
-    "content": "Program Counter R15:\n\nR15 is the PC. You can access it in assembler code by either R15 or PC. Because of the pipelined nature of the Cortex-M3 processor, when you read this register, you will find that the value is different than the location of the executing instruction, normally by 4.\n0x1000 : MOV R0, PC ; R0 = 0x1004\n\nIn other instructions like literal load (reading of a memory location related to current PC value), the effective value of PC might not be instruction address plus 4 due to alignment in address calculation. But the PC value is still at least 2 bytes ahead of the instruction address during execution.",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_9_2",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 9,
-      "bbox": null,
-      "section_title": "Program Counter (R15)",
-      "chunk_summary": "Details how the program counter (R15/PC) behaves and its offset in Cortex\u2011M3.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 623,
-      "hash_sha256": "96b2bd9012e8fe3d61a588af2c1147a3007036bad8d8507982254069c1f7fc42",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_9_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_10_0"
       ],
-      "created_at": "2025-11-25T13:00:06.352994"
+      "created_at": "2025-11-26T10:37:29.436907"
     },
     "page_number": 9,
-    "token_count": 623
+    "token_count": 621
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_10_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::10",
-    "content": "Special Registers:\n\nThe Cortex-M3 processor also has a number of special registers. They are as follows:",
+    "content": "The Cortex-M3 processor also has a number of special registers. They are as follows:",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_10_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 10,
       "bbox": null,
-      "section_title": "Special Registers",
+      "section_title": "Embedded Systems-18EC62",
       "chunk_summary": "Introduction to special registers in the Cortex-M3 processor.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 104,
-      "hash_sha256": "3d7c3b1762bcd5becc5e5aa2dc3f9060c7c3489ab58ce9ce424bb10471ca4a06",
+      "token_count": 84,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_9_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_9_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_10_1"
       ],
-      "created_at": "2025-11-25T13:00:29.555062"
+      "created_at": "2025-11-26T10:37:31.893150"
     },
     "page_number": 10,
-    "token_count": 104
+    "token_count": 84
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_10_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::10",
-    "content": "\u2022 Program Status registers (PSRs)\n\u2022 Interrupt Mask registers (PRIMASK, FAULTMASK, and BASEPRI)\n\u2022 Control register (CONTROL)\n\nSpecial registers can only be accessed via MSR and MRS instructions; they do not have memory addresses.",
+    "content": "\u2022 Program Status registers (PSRs)\n\u2022 Interrupt Mask registers (PRIMASK, FAULTMASK, and BASEPRI)\n\u2022 Control register (CONTROL)",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_10_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 10,
       "bbox": null,
-      "section_title": "Special Registers",
-      "chunk_summary": "List of the special registers available in the Cortex-M3.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "List of special registers in the Cortex-M3 processor.",
       "chunk_type": "bullet_list",
       "content_type": "markdown",
-      "token_count": 228,
-      "hash_sha256": "b18c7a7d65276cbbb6a5b9c529d4292a5ef76be7baa62256516f1972cf7561dd",
+      "token_count": 123,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -776,28 +830,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_10_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_10_2"
       ],
-      "created_at": "2025-11-25T13:00:29.555062"
+      "created_at": "2025-11-26T10:37:31.893150"
     },
     "page_number": 10,
-    "token_count": 228
+    "token_count": 123
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_10_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::10",
-    "content": "The Built-In Nested Vectored Interrupt Controller:\n\nThe Cortex-M3 processor includes an interrupt controller called the Nested Vectored Interrupt Controller (NVIC). It is closely coupled to the processor core and provides a number of features as follows:",
+    "content": "Special registers can only be accessed via MSR and MRS instructions; they do not have memory addresses:",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_10_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 10,
       "bbox": null,
-      "section_title": "Built-In Nested Vectored Interrupt Controller",
-      "chunk_summary": "Description of the NVIC integrated in the Cortex-M3 processor.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Access methods for special registers.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 254,
-      "hash_sha256": "685869858fc87960550ffbb50e0d7da0940eac9a1d4b842d1ff34f8bebb8e6c1",
+      "token_count": 103,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -805,65 +857,88 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_10_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_10_3"
       ],
-      "created_at": "2025-11-25T13:00:29.555062"
+      "created_at": "2025-11-26T10:37:31.893150"
     },
     "page_number": 10,
-    "token_count": 254
+    "token_count": 103
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_10_3",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::10",
-    "content": "\u2022 Nested interrupt support",
+    "content": "The Built-In Nested Vectored Interrupt Controller: The Cortex-M3 processor includes an interrupt controller called the Nested Vectored Interrupt Controller (NVIC). It is closely coupled to the processor core and provides a number of features as follows:",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_10_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 10,
       "bbox": null,
-      "section_title": "Built-In Nested Vectored Interrupt Controller",
-      "chunk_summary": "Key features of the NVIC.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 26,
-      "hash_sha256": "c674b08b36e2381c9dea020ad8568706a819e7767c9d93b35eed8b794e3d72c7",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Introduction to the Nested Vectored Interrupt Controller (NVIC).",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 253,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_10_2",
-        "ES_Mod1@AzDOCUMENTS2.pdf_11_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_10_4"
       ],
-      "created_at": "2025-11-25T13:00:29.555062"
+      "created_at": "2025-11-26T10:37:31.893150"
     },
     "page_number": 10,
-    "token_count": 26
+    "token_count": 253
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_10_4",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::10",
+    "content": "Nested interrupt support",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_10_4",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 10,
+      "bbox": null,
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Features of the NVIC, including nested interrupt support.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 24,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_10_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_11_0"
+      ],
+      "created_at": "2025-11-26T10:37:31.893150"
+    },
+    "page_number": 10,
+    "token_count": 24
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_11_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::11",
     "content": "The NVIC provides nested interrupt support. All the external interrupts and most of the system exceptions can be programmed to different priority levels. When an interrupt occurs, the NVIC compares the priority of this interrupt to the current running priority level. If the priority of the new interrupt is higher than the current level, the interrupt handler of the new interrupt will override the current running task.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_11_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 11,
       "bbox": null,
-      "section_title": "Nested Interrupt Support",
-      "chunk_summary": "NVIC provides nested interrupt support with priority comparison",
+      "section_title": "Embedded Systems - Interrupt Support Features",
+      "chunk_summary": "Overview of NVIC's nested interrupt support and priority management features.",
       "chunk_type": "text",
       "content_type": "narrative",
       "token_count": 421,
-      "hash_sha256": "483590b0f89a084f7e81e756bd8240694dd0f3b49c0a185a976d7702b93409f9",
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_10_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_10_4",
         "ES_Mod1@AzDOCUMENTS2.pdf_11_1"
       ],
-      "created_at": "2025-11-25T13:00:44.133879"
+      "created_at": "2025-11-26T10:37:35.169512"
     },
     "page_number": 11,
     "token_count": 421
@@ -873,18 +948,16 @@
     "source": "ES Mod1@AzDOCUMENTS2.pdf::11",
     "content": "The Cortex-M3 processor has vectored interrupt support. When an interrupt is accepted, the starting address of the interrupt service routine (ISR) is located from a vector table in memory. There is no need to use software to determine and branch to the starting address of the ISR. Thus, it takes less time to process the interrupt request.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_11_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 11,
       "bbox": null,
       "section_title": "Vectored Interrupt Support",
-      "chunk_summary": "Cortex-M3 uses a vector table to locate ISR addresses automatically",
+      "chunk_summary": "Description of the Cortex-M3's vectored interrupt mechanism.",
       "chunk_type": "text",
       "content_type": "narrative",
       "token_count": 340,
-      "hash_sha256": "ad7306fc0e39733e6b1ad9f3176229a3ced4c8bc6c19d7ded140e14defd90016",
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -892,7 +965,7 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_11_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_11_2"
       ],
-      "created_at": "2025-11-25T13:00:44.133879"
+      "created_at": "2025-11-26T10:37:35.169512"
     },
     "page_number": 11,
     "token_count": 340
@@ -902,18 +975,16 @@
     "source": "ES Mod1@AzDOCUMENTS2.pdf::11",
     "content": "Priority levels of interrupts can be changed by software during run time. Interrupts that are being serviced are blocked from further activation until the ISR is completed, so their priority can be changed without risk of accidental reentry.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_11_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 11,
       "bbox": null,
-      "section_title": "Dynamic Priority Changes Support",
-      "chunk_summary": "Interrupt priority levels can be changed by software at runtime",
+      "section_title": "Dynamic Priority Changes",
+      "chunk_summary": "Ability to change interrupt priorities during runtime safely.",
       "chunk_type": "text",
       "content_type": "narrative",
       "token_count": 241,
-      "hash_sha256": "8991cba171ec02ea9c42ede5679c500dfe28ca8dc1e5c37b634a5af389fad9b9",
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -921,7 +992,7 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_11_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_11_3"
       ],
-      "created_at": "2025-11-25T13:00:44.134534"
+      "created_at": "2025-11-26T10:37:35.171716"
     },
     "page_number": 11,
     "token_count": 241
@@ -931,18 +1002,16 @@
     "source": "ES Mod1@AzDOCUMENTS2.pdf::11",
     "content": "The Cortex-M3 processor also includes a number of advanced features to lower the interrupt latency. These include automatic saving and restoring some register contents, reducing delay in switching from one ISR to another, and handling of late arrival interrupts.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_11_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 11,
       "bbox": null,
       "section_title": "Reduction of Interrupt Latency",
-      "chunk_summary": "Advanced features lower interrupt latency by automatic register handling",
+      "chunk_summary": "Features to minimize delay in interrupt handling.",
       "chunk_type": "text",
       "content_type": "narrative",
       "token_count": 262,
-      "hash_sha256": "3ee6d1603b296158570dd47eecc0bea28e0ea558a1a8039a938d75b8b4aba4ff",
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -950,7 +1019,7 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_11_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_11_4"
       ],
-      "created_at": "2025-11-25T13:00:44.134534"
+      "created_at": "2025-11-26T10:37:35.171716"
     },
     "page_number": 11,
     "token_count": 262
@@ -958,20 +1027,18 @@
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_11_4",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::11",
-    "content": "Interrupts and system exceptions can be masked based on their priority level or masked completely using the interrupt masking registers BASEPRI, PRIMASK, and FAULTMASK. They can be used to ensure that time-critical tasks can be finished on time without being interrupt.",
+    "content": "Interrupts and system exceptions can be masked based on their priority level or masked completely using the interrupt masking registers BASEPRI, PRIMASK, and FAULTMASK. They can be used to ensure that time-critical tasks can be finished on time without being interrupted.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_11_4",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 11,
       "bbox": null,
       "section_title": "Interrupt Masking",
-      "chunk_summary": "Interrupts can be masked using BASEPRI, PRIMASK, and FAULTMASK registers",
+      "chunk_summary": "Methods to mask interrupts and exceptions based on priority.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 269,
-      "hash_sha256": "caf2f9d1979c85d3e9141b6e49b4807b57786d358c4cabb733ca17f7bdc05012",
+      "token_count": 271,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -979,86 +1046,107 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_11_3",
         "ES_Mod1@AzDOCUMENTS2.pdf_12_0"
       ],
-      "created_at": "2025-11-25T13:00:44.134534"
+      "created_at": "2025-11-26T10:37:35.171716"
     },
     "page_number": 11,
-    "token_count": 269
+    "token_count": 271
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_12_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::12",
-    "content": "The Memory Map:\n\nThe Cortex-M3 has a predefined memory map. This allows the built-in peripherals, such as the interrupt controller and the debug components, to be accessed by simple memory access instructions. Thus, most system features are accessible in C program code. The predefined memory map also allows the Cortex-M3 processor to be highly optimized for speed and ease of integration in system-on-a-chip (SoC) designs.\n\nThe Cortex-M3 design has an internal bus infrastructure optimized for this memory usage. In addition, the design allows these regions to be used differently. For example, data memory can still be put into the CODE region, and program code can be executed from an external Random Access Memory (RAM) region.",
+    "content": "The Memory Map:\n\nThe Cortex-M3 has a predefined memory map. This allows the built-in peripherals, such as the interrupt controller and the debug components, to be accessed by simple memory access instructions. Thus, most system features are accessible in C program code. The predefined memory map also allows the Cortex-M3 processor to be highly optimized for speed and ease of integration in system-on-a-chip (SoC) designs.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_12_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 12,
       "bbox": null,
-      "section_title": "The Memory Map",
-      "chunk_summary": "Overview of Cortex-M3 predefined memory map and its benefits.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Introduction to the memory map of Cortex-M3.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 732,
-      "hash_sha256": "88c018540b04601ad7e621878163074f1842a5d484a96069d6598f2b64ac1626",
+      "token_count": 424,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_11_4",
-        "ES_Mod1@AzDOCUMENTS2.pdf_13_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_12_1"
       ],
-      "created_at": "2025-11-25T13:00:49.342027"
+      "created_at": "2025-11-26T10:37:37.007991"
     },
     "page_number": 12,
-    "token_count": 732
+    "token_count": 424
   },
   {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_13_0",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::13",
-    "content": "The Bus Interface:\nThere are several bus interfaces on the Cortex-M3 processor. They allow the Cortex-M3 to carry instruction fetches and data accesses at the same time. The main bus interfaces are as follows:",
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_12_1",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::12",
+    "content": "The Cortex-M3 design has an internal bus infrastructure optimized for this memory usage. In addition, the design allows these regions to be used differently. For example, data memory can still be put into the CODE region, and program code can be executed from an external Random Access Memory (RAM) region.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_13_0",
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_12_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
-      "page_number": 13,
+      "page_number": 12,
       "bbox": null,
-      "section_title": "Bus Interface",
-      "chunk_summary": "Overview of bus interfaces on the Cortex-M3 processor.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Details on Cortex-M3 internal bus infrastructure and memory usage.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 209,
-      "hash_sha256": "5fc22ac990b58a6562213a0b4bdbdfe60176f68c672e635a5373e3f4161b694e",
+      "token_count": 306,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_12_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_13_0"
+      ],
+      "created_at": "2025-11-26T10:37:37.007991"
+    },
+    "page_number": 12,
+    "token_count": 306
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_13_0",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::13",
+    "content": "The page discusses the Cortex-M3 processor, focusing on its bus interfaces and instruction set. It explains the different bus types, including code memory buses, system bus, and private peripheral bus, and their roles in instruction fetches and data access. The code memory buses consist of I-Code and D-Code, optimized for instruction fetches. The system bus accesses memory and peripherals such as SRAM, external RAM, and external devices.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_13_0",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 13,
+      "bbox": null,
+      "section_title": "Embedded Systems Overview",
+      "chunk_summary": "Introduction to the Cortex-M3 processor and its bus interfaces.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 441,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_12_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_13_1"
       ],
-      "created_at": "2025-11-25T13:01:04.985292"
+      "created_at": "2025-11-26T10:37:39.778512"
     },
     "page_number": 13,
-    "token_count": 209
+    "token_count": 441
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_13_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::13",
-    "content": "\u2022 Code memory buses\n\u2022 System bus\n\u2022 Private peripheral bus",
+    "content": "The main bus interfaces on the Cortex-M3 are the code memory buses, system bus, and private peripheral bus. The code memory buses, I-Code and D-Code, are optimized for instruction fetches to enhance execution speed. The system bus provides access to memory and peripherals, including SRAM, external RAM, external devices, and system memory regions.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_13_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 13,
       "bbox": null,
-      "section_title": "Bus Interface",
-      "chunk_summary": "List of the primary bus interfaces.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 57,
-      "hash_sha256": "580f0a5ef10ad8bdf342801e6997ffbb8b3a8146cbab6c2245d3b373550b276a",
+      "section_title": "Bus Interfaces on Cortex-M3",
+      "chunk_summary": "Details of the main bus interfaces and their functions.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 348,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -1066,28 +1154,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_13_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_13_2"
       ],
-      "created_at": "2025-11-25T13:01:04.985844"
+      "created_at": "2025-11-26T10:37:39.778512"
     },
     "page_number": 13,
-    "token_count": 57
+    "token_count": 348
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_13_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::13",
-    "content": "The code memory region access is carried out on the code memory buses, which physically consist of two buses, one called I-Code and other called D-Code. These are optimized for instruction fetches for best instruction execution speed.\n\nThe system bus is used to access memory and peripherals. This provides access to the Static Random Access Memory (SRAM), peripherals, external RAM, external devices, and part of the system level memory regions.",
+    "content": "The Cortex-M3 supports the Thumb-2 instruction set, which combines 32-bit and 16-bit instructions for high code density and efficiency. This feature allows flexible instruction usage, improving performance and memory utilization.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_13_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 13,
       "bbox": null,
-      "section_title": "Bus Interface",
-      "chunk_summary": "Details of code memory buses and the system bus.",
+      "section_title": "Instruction Set Support",
+      "chunk_summary": "Description of the Thumb-2 instruction set and its advantages.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 446,
-      "hash_sha256": "1baf92de7846387d7d2a209e1abab44e72916caaf93560418bb93035e0a97e71",
+      "token_count": 229,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -1095,28 +1181,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_13_1",
         "ES_Mod1@AzDOCUMENTS2.pdf_13_3"
       ],
-      "created_at": "2025-11-25T13:01:04.985844"
+      "created_at": "2025-11-26T10:37:39.778512"
     },
     "page_number": 13,
-    "token_count": 446
+    "token_count": 229
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_13_3",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::13",
-    "content": "The Instruction Set:\nThe Cortex-M3 supports the Thumb-2 instruction set. This is one of the most important features of the Cortex-M3 processor because it allows 32-bit instructions and 16-bit instructions to be used together for high code density and high efficiency. It is flexible and powerful yet easy to use.\n\nIn previous ARM processors, the central processing unit (CPU) had two operation states: a 32-bit ARM state and a 16-bit Thumb state. In the ARM state, the instructions are 32 bits and can execute all supported instructions with very high performance. In the Thumb state, the instructions are 16 bits, so there is a much higher instruction code density, but the Thumb state does not have all the functionality of ARM instructions and may require more instructions to complete certain types of operations.",
+    "content": "Previous ARM processors had two operation states: ARM state with 32-bit instructions and Thumb state with 16-bit instructions. ARM state offers high performance, while Thumb state provides higher code density but may require more instructions for certain operations.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_13_3",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 13,
       "bbox": null,
-      "section_title": "Instruction Set",
-      "chunk_summary": "Description of the Thumb-2 instruction set supported by Cortex-M3.",
+      "section_title": "Instruction Set States",
+      "chunk_summary": "Comparison of ARM and Thumb states in previous ARM processors.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 817,
-      "hash_sha256": "27b977621d024c91a434c6cc760c78959a17546d834084f81825a6d95c488a64",
+      "token_count": 266,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -1124,28 +1208,26 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_13_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_14_0"
       ],
-      "created_at": "2025-11-25T13:01:04.986381"
+      "created_at": "2025-11-26T10:37:39.778512"
     },
     "page_number": 13,
-    "token_count": 817
+    "token_count": 266
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_14_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::14",
-    "content": "Embedded Systems-18EC62\nAzdocuments.in\nwww.azdocuments.in\nPage 14",
+    "content": "The Cortex-M3 processor has a number of advantages over traditional ARM processors, such as:\n\n\u2022 No state switching overhead, saving both execution time and instruction space\n\n\u2022 No need to separate ARM code and Thumb code source files, making software development and maintenance easier\n\n\u2022 It\u2019s easier to get the best efficiency and performance, in turn making it easier to write software, because there is no need to worry about switching code between ARM and Thumb to try to get the best density/performance.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_14_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 14,
       "bbox": null,
-      "section_title": "Document Header",
-      "chunk_summary": "Basic document identification and page number.",
+      "section_title": "Embedded Systems",
+      "chunk_summary": "Introduction to the Cortex-M3 processor and its advantages.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 65,
-      "hash_sha256": "2ba99dd3dcad083274bbf6fa893a511a7c7ccdeb5bd32e4973f497683d085442",
+      "token_count": 509,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
@@ -1153,181 +1235,223 @@
         "ES_Mod1@AzDOCUMENTS2.pdf_13_3",
         "ES_Mod1@AzDOCUMENTS2.pdf_14_1"
       ],
-      "created_at": "2025-11-25T13:01:13.883320"
+      "created_at": "2025-11-26T10:37:41.929678"
     },
     "page_number": 14,
-    "token_count": 65
+    "token_count": 509
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_14_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::14",
-    "content": "\u2022 No state switching overhead, saving both execution time and instruction space\n\u2022 No need to separate ARM code and Thumb code source files, making software development and maintenance easier\n\u2022 It\u2019s easier to get the best efficiency and performance, in turn making it easier to write software, because there is no need to worry about switching code between ARM and Thumb to try to get the best density/performance.",
+    "content": "The Cortex-M3 processor has a number of interesting and powerful instructions. Here are a few examples:\n\u2022 UFBX, BFI, and BFC: Bit field extract, insert, and clear instructions\n\n\u2022 UDIV and SDIV: Unsigned and signed divide instructions\n\n\u2022 WFE, WFI, and SEV: Wait-For-Event, Wait-For-Interrupts, and Send-Event; these allow the processor to enter sleep mode and to handle task synchronization on multiprocessor systems\n\u2022 MSR and MRS: Move to special register from general-purpose register and move special register to general-purpose register; for access to the special registers.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_14_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 14,
       "bbox": null,
-      "section_title": "Cortex-M3 Advantages",
-      "chunk_summary": "Key advantages of the Cortex-M3 processor over traditional ARM processors.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 413,
-      "hash_sha256": "070e90c26926fbedeb907278cdca6dd122bb9871862789810ff855efb426d031",
+      "section_title": "Cortex-M3 Instructions",
+      "chunk_summary": "Overview of powerful instructions available in the Cortex-M3 processor.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 577,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_14_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_14_2"
-      ],
-      "created_at": "2025-11-25T13:01:13.883320"
-    },
-    "page_number": 14,
-    "token_count": 413
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_14_2",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::14",
-    "content": "The Cortex-M3 processor has a number of interesting and powerful instructions. Here are a few examples:",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_14_2",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 14,
-      "bbox": null,
-      "section_title": "Cortex-M3 Instruction Set Overview",
-      "chunk_summary": "Introduction to the powerful instruction set of the Cortex-M3.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 103,
-      "hash_sha256": "94284127947e26757b0cf9519482f8c1cc7367c756227267b86627b7dd53aee9",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_14_1",
-        "ES_Mod1@AzDOCUMENTS2.pdf_14_3"
-      ],
-      "created_at": "2025-11-25T13:01:13.883320"
-    },
-    "page_number": 14,
-    "token_count": 103
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_14_3",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::14",
-    "content": "\u2022 UFBX, BFI, and BFC: Bit field extract, insert, and clear instructions\n\u2022 UDIV and SDIV: Unsigned and signed divide instructions\n\u2022 WFE, WFI, and SEV: Wait-For-Event, Wait-For-Interrupts, and Send-Event; these allow the processor to enter sleep mode and to handle task synchronization on multiprocessor systems\n\u2022 MSR and MRS: Move to special register from general-purpose register and move special register to general-purpose register; for access to the special registers.",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_14_3",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 14,
-      "bbox": null,
-      "section_title": "Cortex-M3 Instruction Examples",
-      "chunk_summary": "Examples of specialized instructions available on the Cortex-M3.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 471,
-      "hash_sha256": "a7244e45b6bd13fd8421ac1c3a8d53138cc48dcfe8852748c790d5f8617a9fb4",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_14_2",
         "ES_Mod1@AzDOCUMENTS2.pdf_15_0"
       ],
-      "created_at": "2025-11-25T13:01:13.883320"
+      "created_at": "2025-11-26T10:37:41.929678"
     },
     "page_number": 14,
-    "token_count": 471
+    "token_count": 577
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_15_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::15",
-    "content": "Interrupts and Exceptions:\n\nThe Cortex-M3 processor implements a new exception model, introduced in the ARMv7-M architecture. This exception model differs from the traditional ARM exception model, enabling very efficient exception handling. It has a number of system exception handling. It has a number of system exceptions plus a number of external Interrupt Request (IRQs) (external interrupt inputs). There is no fast interrupt (FIQ) (fast interrupt in ARM7/ARM9/ ARM10/ARM11) in the Cortex-M3; however, interrupt priority handling and nested interrupt support are now included in the interrupt architecture. Therefore, it is easy to set up a system that supports nested interrupts (a higher-priority interrupt can override or preempt a lower-priority interrupt handler) and that behaves just like the FIQ in traditional ARM processors.",
+    "content": "Embedded Systems-18EC62 Azdocuments.in www.azdocuments.in Page 15",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_15_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 15,
       "bbox": null,
-      "section_title": "Interrupts and Exceptions",
-      "chunk_summary": "Overview of Cortex-M3 exception model and interrupt handling.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Introduction to the page content about embedded systems and Cortex-M3 processor.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 839,
-      "hash_sha256": "4d912c4d745ec57f00fa360ac13fdcfe2d06ae9175ed0e28d5e4ef01fb7ed5e7",
+      "token_count": 65,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_14_3",
-        "ES_Mod1@AzDOCUMENTS2.pdf_16_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_14_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_15_1"
       ],
-      "created_at": "2025-11-25T13:01:22.133210"
+      "created_at": "2025-11-26T10:37:43.773581"
     },
     "page_number": 15,
-    "token_count": 839
+    "token_count": 65
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_15_1",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::15",
+    "content": "The Cortex-M3 processor implements a new exception model, introduced in the ARMv7-M architecture. This exception model differs from the traditional ARM exception model, enabling very efficient exception handling. It has a number of system exception handling. It has a number of system exceptions plus a number of external Interrupt Request (IRQs) (external interrupt inputs). There is no fast interrupt (FIQ) (fast interrupt in ARM7/ARM9/ ARM10/ARM11) in the Cortex-M3; however, interrupt priority handling and nested interrupt support are now included in the interrupt architecture. Therefore, it is easy to set up a system that supports nested interrupts (a higher-priority interrupt can override or preempt a lower-priority interrupt handler) and that behaves just like the FIQ in traditional ARM processors.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_15_1",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 15,
+      "bbox": null,
+      "section_title": "Interrupts and Exceptions",
+      "chunk_summary": "Overview of the Cortex-M3 exception model and interrupt handling features.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 811,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_15_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_0"
+      ],
+      "created_at": "2025-11-26T10:37:43.773581"
+    },
+    "page_number": 15,
+    "token_count": 811
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_16_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::16",
-    "content": "Debugging Support:\n\nThe Cortex-M3 processor includes a number of debugging features, such as program execution controls, including halting and stepping, instruction breakpoints, data watchpoints, registers and memory accesses, profiling, and traces. The debugging hardware of the Cortex-M3 processor is based on the CoreSight\u2122 architecture.\n\nUnlike traditional ARM processors, the CPU core itself does not have a Joint Test Action Group (JTAG) interface. Instead, a debug interface module is decoupled from the core, and a bus interface called the Debug Access Port (DAP) is provided at the core level. Through this bus interface, external debuggers can access control registers to debug hardware as well as system memory, even when the processor is running. The control of this bus interface is carried out by a Debug Port (DP) device.\n\nThe DPs currently available are the Serial-Wire JTAG Debug Port (SWJ-DP) (supports the traditional JTAG protocol as well as the Serial-Wire protocol) or the SW-DP (supports the Serial-Wire protocol only). A JTAG-DP module from the ARM CoreSight product family can also be used. Chip manufacturers can choose to attach one of these DP modules to provide the debug interface.\n\nChip manufacturers can also include an Embedded Trace Macrocell (ETM) to allow instruction trace. Trace information is output via the Trace Port Interface Unit (TPIU), and the debug host (usually a Personal Computer [PC]) can then collect the executed instruction information via external trace capturing hardware.",
+    "content": "The Cortex-M3 processor includes a number of debugging features, such as program execution controls, including halting and stepping, instruction breakpoints, data watchpoints, registers and memory accesses, profiling, and traces. The debugging hardware of the Cortex-M3 processor is based on the CoreSight\u2122 architecture.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_16_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 16,
       "bbox": null,
       "section_title": "Debugging Support",
-      "chunk_summary": "Overview of Cortex-M3 debugging features and interfaces.",
+      "chunk_summary": "Overview of debugging features in the Cortex-M3 processor.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 1527,
-      "hash_sha256": "5b527faaff96864915a0795fd8caebfe1bd0db47c06b28ddcf6896989dfa8478",
+      "token_count": 320,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_15_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_17_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_15_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_1"
       ],
-      "created_at": "2025-11-25T13:01:44.078007"
+      "created_at": "2025-11-26T10:37:46.629517"
     },
     "page_number": 16,
-    "token_count": 1527
+    "token_count": 320
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_16_1",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::16",
+    "content": "Unlike traditional ARM processors, the CPU core itself does not have a Joint Test Action Group (JTAG) interface. Instead, a debug interface module is decoupled from the core, and a bus interface called the Debug Access Port (DAP) is provided at the core level. Through this bus interface, external debuggers can access control registers to debug hardware as well as system memory, even when the processor is running. The control of this bus interface is carried out by a Debug Port (DP) device.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_16_1",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 16,
+      "bbox": null,
+      "section_title": "Debug Interface Architecture",
+      "chunk_summary": "Description of the debug interface architecture of Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 494,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_2"
+      ],
+      "created_at": "2025-11-26T10:37:46.629517"
+    },
+    "page_number": 16,
+    "token_count": 494
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_16_2",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::16",
+    "content": "The DPs currently available are the Serial-Wire JTAG Debug Port (SWJ-DP) (supports the traditional JTAG protocol as well as the Serial-Wire protocol) or the SW-DP (supports the Serial-Wire protocol only). A JTAG-DP module from the ARM CoreSight product family can also be used. Chip manufacturers can choose to attach one of these DP modules to provide the debug interface.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_16_2",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 16,
+      "bbox": null,
+      "section_title": "Debug Port Modules",
+      "chunk_summary": "Details of available debug port modules for Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 373,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_3"
+      ],
+      "created_at": "2025-11-26T10:37:46.629517"
+    },
+    "page_number": 16,
+    "token_count": 373
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_16_3",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::16",
+    "content": "Chip manufacturers can also include an Embedded Trace Macrocell (ETM) to allow instruction trace. Trace information is output via the Trace Port Interface Unit (TPIU), and the debug host (usually a Personal Computer [PC]) can then collect the executed instruction information via external trace capturing hardware.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_16_3",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 16,
+      "bbox": null,
+      "section_title": "Trace Functionality",
+      "chunk_summary": "Explanation of instruction trace and trace output in Cortex-M3.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 314,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_0"
+      ],
+      "created_at": "2025-11-26T10:37:46.629517"
+    },
+    "page_number": 16,
+    "token_count": 314
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_17_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::17",
     "content": "In the Cortex-M3, besides normal software-controlled stack PUSH and POP, the stack PUSH and POP operations are also carried out automatically when entering or exiting an exception/interrupt handler. In this section, we examine the software stack operations.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_17_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 17,
       "bbox": null,
-      "section_title": "Stack Memory Operations",
-      "chunk_summary": "Overview of automatic stack handling in Cortex\u2011M3 exceptions and interrupts.",
+      "section_title": "Embedded Systems-18EC62",
+      "chunk_summary": "Introduction to stack memory operations in Cortex-M3.",
       "chunk_type": "text",
       "content_type": "narrative",
       "token_count": 257,
-      "hash_sha256": "4b05df0a510d2ca2d0f66eed62bdbfdea771fd0208b98944c6cc19d562cb9cd9",
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_16_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_16_3",
         "ES_Mod1@AzDOCUMENTS2.pdf_17_1"
       ],
-      "created_at": "2025-11-25T13:01:55.837727"
+      "created_at": "2025-11-26T10:37:50.019364"
     },
     "page_number": 17,
     "token_count": 257
@@ -1335,174 +1459,189 @@
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_17_1",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::17",
-    "content": "In general, stack operations are memory write or read operations, with the address specified by an SP. Data in registers is saved into stack memory by a PUSH operation and can be restored to registers later by a POP operation. The SP is adjusted automatically in PUSH and POP so that multiple data PUSH will not cause old stacked data to be erased. The function of the stack is to store register contents in memory so that they can be restored later, after a processing task is completed. For normal uses, for each store (PUSH), there must be a corresponding read (POP), and the address of the POP operation should match that of the PUSH operation. When PUSH/POP instructions are used, the SP is incremented/decremented automatically. When program control returns to the main program, the R0\u2013R2 contents are the same as before. Notice the order of PUSH and POP: The POP order must be the reverse of PUSH. These operations can be simplified, thanks to PUSH and POP instructions allowing multiple load and store. In this case, the ordering of a register POP is automatically reversed by the processor. You can also combine RETURN with a POP operation. This is done by pushing the LR to the stack and popping it back to PC at the end of the subroutine.",
+    "content": "In general, stack operations are memory write or read operations, with the address specified by an SP. Data in registers is saved into stack memory by a PUSH operation and can be restored to registers later by a POP operation. The SP is adjusted automatically in PUSH and POP so that multiple data PUSH will not cause old stacked data to be erased.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_17_1",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 17,
       "bbox": null,
-      "section_title": "Operation",
-      "chunk_summary": "Detailed description of PUSH/POP memory writes, register saving, and stack pointer adjustments.",
+      "section_title": "Stack Operations Overview",
+      "chunk_summary": "General description of stack push and pop operations.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 1249,
-      "hash_sha256": "ac5143349fdb331b2a6423a68df53fb737824ca09687c97c3d7cada83c006e39",
+      "token_count": 348,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
         "ES_Mod1@AzDOCUMENTS2.pdf_17_0",
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0"
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_2"
       ],
-      "created_at": "2025-11-25T13:01:55.847188"
+      "created_at": "2025-11-26T10:37:50.019364"
     },
     "page_number": 17,
-    "token_count": 1249
+    "token_count": 348
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_17_2",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::17",
+    "content": "The function of the stack is to store register contents in memory so that they can be restored later, after a processing task is completed. For normal uses, for each store (PUSH), there must be a corresponding read (POP), and the address of the POP operation should match that of the PUSH operation. When PUSH/POP instructions are used, the SP is incremented/decremented automatically.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_17_2",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 17,
+      "bbox": null,
+      "section_title": "Purpose of Stack",
+      "chunk_summary": "Function of the stack in storing register contents.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 385,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_1",
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_3"
+      ],
+      "created_at": "2025-11-26T10:37:50.019364"
+    },
+    "page_number": 17,
+    "token_count": 385
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_17_3",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::17",
+    "content": "When program control returns to the main program, the R0\u2013R2 contents are the same as before. Notice the order of PUSH and POP: The POP order must be the reverse of PUSH. These operations can be simplified, thanks to PUSH and POP instructions allowing multiple load and store. In this case, the ordering of a register POP is automatically reversed by the processor.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_17_3",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 17,
+      "bbox": null,
+      "section_title": "Stack Operation Details",
+      "chunk_summary": "Order and automatic adjustment of PUSH and POP operations.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 364,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_4"
+      ],
+      "created_at": "2025-11-26T10:37:50.019364"
+    },
+    "page_number": 17,
+    "token_count": 364
+  },
+  {
+    "id": "ES_Mod1@AzDOCUMENTS2.pdf_17_4",
+    "source": "ES Mod1@AzDOCUMENTS2.pdf::17",
+    "content": "You can also combine RETURN with a POP operation. This is done by pushing the LR to the stack and popping it back to PC at the end of the subroutine.",
+    "metadata": {
+      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_17_4",
+      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
+      "mime_type": "application/pdf",
+      "page_number": 17,
+      "bbox": null,
+      "section_title": "Advanced Stack Usage",
+      "chunk_summary": "Using PUSH and POP for subroutine return and exception handling.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 149,
+      "vector_metric": "cosine",
+      "embedding_model": "text-embedding-3-small",
+      "table_schema": null,
+      "neighbors": [
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_3",
+        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0"
+      ],
+      "created_at": "2025-11-26T10:37:50.019364"
+    },
+    "page_number": 17,
+    "token_count": 149
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::18-19",
-    "content": "1. 16 Reset Sequence\n\nAfter the processor exits reset, it will read two words from memory.",
+    "content": "After the processor exits reset, it will read two words from memory. The first word at address 0x00000000 is the starting value of R13 (the SP). The second word at address 0x00000004 is the reset vector, which indicates the starting address of program execution; its least significant bit should be set to 1 to indicate Thumb state. This process differs from traditional ARM processor behavior, where program code starts from address 0x0 and the vector table contains instructions.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 18,
       "bbox": null,
       "section_title": "Reset Sequence",
-      "chunk_summary": "Describes the reset sequence and memory locations read after reset.",
+      "chunk_summary": "Overview of the reset sequence and memory reading process in embedded systems.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 90,
-      "hash_sha256": "bd73c010eebbc2310988ef635b33f108f54fe1d62429cebf468053a3e73ff74d",
+      "token_count": 481,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_17_1",
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_1"
-      ],
-      "created_at": "2025-11-25T13:02:14.976787"
-    },
-    "page_number": 18,
-    "token_count": 90
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_1",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::18-19",
-    "content": "\u2022 Address 0x00000000: Starting value of R13 (the SP)\n\u2022 Address 0x00000004: Reset vector (the starting address of program execution; LSB should be set to 1 to indicate Thumb state)",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_1",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 18,
-      "bbox": null,
-      "section_title": "Reset Sequence",
-      "chunk_summary": "Lists the two memory words read after reset: initial SP and reset vector.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 179,
-      "hash_sha256": "be697b7630d1f347a05245fddc8ae20c6cf66551d04fc678c367a06f4afed5e5",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0",
+        "ES_Mod1@AzDOCUMENTS2.pdf_17_4",
         "ES_Mod1@AzDOCUMENTS2.pdf_18-19_2"
       ],
-      "created_at": "2025-11-25T13:02:14.976787"
+      "created_at": "2025-11-26T10:37:52.580585"
     },
     "page_number": 18,
-    "token_count": 179
+    "token_count": 481
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_2",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::18-19",
-    "content": "This differs from traditional ARM processor behavior. Previous ARM processors executed program code starting from address 0x0. Furthermore, the vector table in previous ARM devices was instructions.\n\nFigure 3.Reset sequence",
+    "content": "In the Cortex-M3, the initial value for the Main Stack Pointer (MSP) is placed at the beginning of the memory map, followed by the vector table containing vector address values. The vector table can be relocated during program execution. The first vector in the table is the reset vector, which is the second data fetched after reset. Since the Cortex-M3 uses a full descending stack (SP decrement before store), the initial SP value should be set to the first memory address after the top of the stack region. For example, if the stack memory range is from 0x20007C00 to 0x20007FFF (1 KB), the initial stack value should be set to 0x20008000.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_2",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 18,
       "bbox": null,
-      "section_title": "Reset Sequence",
-      "chunk_summary": "Explains how this reset behavior differs from earlier ARM processors.",
+      "section_title": "Initial Stack Pointer and Program Counter Values",
+      "chunk_summary": "Explanation of initial values for MSP and PC in Cortex-M3.",
       "chunk_type": "text",
       "content_type": "narrative",
-      "token_count": 223,
-      "hash_sha256": "69e531e3aafa1d7384f6d629a6dc52a19cd6a94a3ac5f75fa19955d0f67c119c",
+      "token_count": 643,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_1",
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_3"
-      ],
-      "created_at": "2025-11-25T13:02:14.976787"
-    },
-    "page_number": 18,
-    "token_count": 223
-  },
-  {
-    "id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_3",
-    "source": "ES Mod1@AzDOCUMENTS2.pdf::18-19",
-    "content": "Figure.4 Initial Stack Pointer Value and Initial Program Counter Value Example.\n\nIn the Cortex-M3, the initial value for the MSP is put at the beginning of the memory map, followed by the vector table, which contains vector address values. (The vector table can be relocated to another location later, during program execution.) In addition, the contents of the vector table are address values not branch instructions. The first vector in the vector table (exception type 1) is the reset vector, which is the second piece of data fetched by the processor after reset. Because the stack operation in the Cortex-M3 is a full descending stack (SP decrement before store), the initial SP value should be set to the first memory after the top of the stack region. For example, if you have a stack memory range from 0x20007C00 to 0x20007FFF (1 KB), the initial stack value should be set to 0x20008000.",
-    "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
-      "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_18-19_3",
-      "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
-      "mime_type": "application/pdf",
-      "page_number": 18,
-      "bbox": null,
-      "section_title": "Cortex\u2011M3 Stack and Vector Table",
-      "chunk_summary": "Details the initial stack pointer and program counter values in Cortex\u2011M3 vector table.",
-      "chunk_type": "text",
-      "content_type": "narrative",
-      "token_count": 895,
-      "hash_sha256": "6dbfe092bc6fdafbec52abab0d7dd47aff73c6115de4462bca6d02e001ba6cae",
-      "vector_metric": "cosine",
-      "embedding_model": "text-embedding-3-small",
-      "table_schema": null,
-      "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_2",
+        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_0",
         "ES_Mod1@AzDOCUMENTS2.pdf_20_0"
       ],
-      "created_at": "2025-11-25T13:02:14.978122"
+      "created_at": "2025-11-26T10:37:52.580585"
     },
     "page_number": 18,
-    "token_count": 895
+    "token_count": 643
   },
   {
     "id": "ES_Mod1@AzDOCUMENTS2.pdf_20_0",
     "source": "ES Mod1@AzDOCUMENTS2.pdf::20",
-    "content": "1. Briefly discuss how Cortex-M3 address the requirements of the 32-bit embedded processor market\n2. Briefly explain the Thumb-2 technology and its advantages over thumb instruction set with relevant diagram.\n3. Write a short note on the applications of Cortex-M3\n4. With a neat diagram, explain the architecture of ARM cortex M3 microcontroller.\n5. What are the various registers in ARM Cortex M3? Specify the function of each of them.\n6. Briefly describe the Special Register of ARM cortex M3.\n7. Briefly explain about the operation modes and levels with relevant diagrams in case of ARM Cortex-M3\n8. Explain the features of Nested vector Interrupt controller of ARM cortex M3.\n9. With neat diagram explain the predefined memory map of ARM Cortex-M3\n10. Write a short note on a) Bus interface b) Memory Protection units of ARM cortex M3.\n11. Describe the interrupts and exceptions supported by ARM Cortex M3.\n12. Describe the debugging support in ARM Cortex M3.\n13. Explain the stack operations using PUSH and POP instructions in ARM Cortex M3.\n14. With relevant diagrams explain the reset sequence in ARM cortex M3.",
+    "content": "Recommended Questions 1. Briefly discuss how Cortex-M3 address the requirements of the 32-bit embedded processor market 2. Briefly explain the Thumb-2 technology and its advantages over thumb instruction set with relevant diagram. 3. Write a short note on the applications of Cortex-M3 4. With a neat diagram, explain the architecture of ARM cortex M3 microcontroller. 5. What are the various registers in ARM Cortex M3? Specify the function of each of them. 6. Briefly describe the Special Register of ARM cortex M3. 7. Briefly explain about the operation modes and levels with relevant diagrams in case of ARM Cortex-M3 8. Explain the features of Nested vector Interrupt controller of ARM cortex M3. 9. With neat diagram explain the predefined memory map of ARM Cortex-M3 10. Write a short note on a) Bus interface b) Memory Protection units of ARM cortex M3. 11. Describe the interrupts and exceptions supported by ARM Cortex M3. 12. Describe the debugging support in ARM Cortex M3. 13. Explain the stack operations using PUSH and POP instructions in ARM Cortex M3. 14. With relevant diagrams explain the reset sequence in ARM cortex M3.",
     "metadata": {
-      "doc_id": "d22a3c4b-e566-5a14-8e14-6761ba4f76cd",
       "chunk_id": "ES_Mod1@AzDOCUMENTS2.pdf_20_0",
       "source_path": "ES Mod1@AzDOCUMENTS2.pdf",
       "mime_type": "application/pdf",
       "page_number": 20,
       "bbox": null,
       "section_title": "Recommended Questions",
-      "chunk_summary": "List of recommended exam questions covering ARM Cortex-M3 architecture and features.",
-      "chunk_type": "bullet_list",
-      "content_type": "markdown",
-      "token_count": 1118,
-      "hash_sha256": "52a75e8b40444e6aa8498a1f1d6fc790bf8711fc7fb6b8260728e83b4e8bbf5f",
+      "chunk_summary": "List of questions related to ARM Cortex-M3 microcontroller architecture and features.",
+      "chunk_type": "text",
+      "content_type": "narrative",
+      "token_count": 1140,
       "vector_metric": "cosine",
       "embedding_model": "text-embedding-3-small",
       "table_schema": null,
       "neighbors": [
-        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_3"
+        "ES_Mod1@AzDOCUMENTS2.pdf_18-19_2"
       ],
-      "created_at": "2025-11-25T13:02:23.398660"
+      "created_at": "2025-11-26T10:37:54.629327"
     },
     "page_number": 20,
-    "token_count": 1118
+    "token_count": 1140
   }
 ]
